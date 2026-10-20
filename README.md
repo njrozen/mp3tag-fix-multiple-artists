@@ -113,4 +113,8 @@ tests/       engine and tag round-trip tests
 lib/         TagLibSharp.dll 2.3.0 (LGPL-2.1, https://github.com/mono/taglib-sharp)
 ```
 
+## License
+
+[MIT](LICENSE). The bundled `lib/TagLibSharp.dll` is a separate library under its own license, [LGPL-2.1](https://github.com/mono/taglib-sharp/blob/main/COPYING).
+
 Mp3tag is freeware by Florian Heidenreich. This is an independent companion tool and is not affiliated with Mp3tag.
